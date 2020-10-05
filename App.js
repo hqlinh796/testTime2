@@ -6,6 +6,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Hi co Na!</Text>
+      <Text>Add more test</Text>
+      <Text>Change user</Text>
       <StatusBar style="auto" />
     </View>
   );
